@@ -1,0 +1,20 @@
+/* Styles */
+#app {
+    font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #4d4d4d;
+    min-width: 550px;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.dashboard{
+    border:1px solid black;
+    padding:10px;
+}
+a.active {
+    color: orange;
+}
+
+nav {
+    padding-top: 20px;
+}
