@@ -1,26 +1,55 @@
-# courses-react-redux
+<h1> Alemeno React Developer Internship Task  </h1>
 
-> A react/redux project
+<b> Live Link : https://bhanuprasadalemeno.netlify.app/</b>
+<h2><a href="<h1>https://github.com/Bhanuprasadgantela14/Alemeno-React-Assignment</h1>"> Git Repo Page </a></h2>
+Task : To create a website that Showcases a  list
+of courses and their details using React.  Task is to implement the
+course listing page, a course details page, and a student dashboard to
+display enrolled courses.
 
-This is a react/redux application I implemented while participating in [Corey House](https://github.com/coryhouse)'s excellent [React/Redux course on Pluralsight](https://www.pluralsight.com/courses/react-redux-react-router-es6). 
-This includes some of the completed additional assignments from the end of the course.
 
-Now based on [create-react-app](https://github.com/facebookincubator/create-react-app)
+<h2>About this Project</h2>
 
-## Build Setup
+- This Project is done using React,Redux,HTML, CSS and JavaScript without using any frameworks.
+- Used JQuery as extra. I did not Use any other Technologes Extra.
 
-``` bash
-# install dependencies
-yarn install
+<h2>Run Locally</h2>
 
-# serve with hot reload at localhost:8080
-yarn start
+<h3>Clone the Project</h3>
+<pre>git clone https://github.com/Bhanuprasadgantela14/Alemeno-React-Assignment.git</pre>
 
-# build for production with minification
-yarn build
+### If you are running the project locally
+- Goto Index.html file
+- Goto Terminal and Install npm modules
 
-# run all tests
-yarn test
-```
+<h3>Go to Terminal And give the Below Commands one by one./h3>
+<pre>npm install</pre>
+<pre>npm start</pre>
 
-Note: This is not a real, full application. It was just an educational exercise. I'm making it public only because it could be helpful to others.
+<h2> Working of the Website</h2>
+
+### After running locally or opening the deployed website ( https://bhanuprasadalemeno.netlify.app/ )
+- you will be taken to the cover page
+- click on the Get Started button
+- Now you are redirected to the main page
+- Created a user dashboard for students to display the courses they are 
+    enrolled in.
+- Included a user-friendly interface with a list of enrolled courses.
+- Displayed course name, instructor name, thumbnail, due date, and a 
+   progress bar
+- Implemented a feature that allows students to mark courses as completed.
+
+
+
+
+  ### <h2>What I Did</h2>
+  - Implemented all the mentioned functionalities
+  - Added my own designing and styles
+  - Added the Courses and Instructors Details.
+
+  <h1> DONE !!!</h1>
+  <h1>Thank you For giving this Opportunity</h1>
+  
+
+
+
